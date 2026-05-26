@@ -41,24 +41,22 @@
 ---
 
 
-<table align="center" width="100%">
-  <tr>
-    <td width="40%" valign="middle" align="center">
-      <h3 style="margin:0 0 10% 0;"><img src="./assets/giphy.gif" width="30" height="30" alt="giphy" style="vertical-align:middle; margin-right:8px;"/>I’m currently learning</h3>
-      <p style="margin:0;">
-        <img src="./assets/langgraph.webp" width="40" height="40" alt="langgraph"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-      </p>
-    </td>
-    <td width="60%" valign="middle" align="center">
-      <a href="https://github.com/zichen0116/zichen0116">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zichen0116&show_icons=true&theme=tokyonight" alt="zicn's GitHub Stats" height="170" style="display:block; margin:0 auto;"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:120px; width:100%; flex-wrap:wrap;">
+  <div style="flex:0 0 auto; text-align:center;">
+    <h3 style="margin:0 0 30px 0;"><img src="./assets/giphy.gif" width="30" height="30" alt="giphy" style="vertical-align:middle; margin-right:8px;"/>I'm currently learning</h3>
+    <p style="margin:0;">
+      <img src="./assets/langgraph.webp" width="40" height="40" alt="langgraph"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+    </p>
+  </div>
+  <div style="flex:0 0 auto;">
+    <a href="https://github.com/zichen0116/zichen0116">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zichen0116&show_icons=true&theme=tokyonight" alt="zicn's GitHub Stats" height="170" style="display:block;"/>
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -73,10 +71,11 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zichen0116/zichen0116/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zichen0116/zichen0116/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zichen0116/zichen0116/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
