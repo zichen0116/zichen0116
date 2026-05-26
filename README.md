@@ -16,6 +16,9 @@
     <strong>I am open to internship opportunities in any interesting direction.</strong>
   </p>
 </div>
+
+---
+
 <p align="center">
   <img src="./assets/TechStackBanner.png" alt="Tech Stack Banner" width="900"/>
 </p>
@@ -41,9 +44,9 @@
 ---
 
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:120px; width:100%; flex-wrap:wrap;">
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px; width:100%; flex-wrap:wrap;">
   <div style="flex:0 0 auto; text-align:center;">
-    <h3 style="margin:0 0 30px 0;"><img src="./assets/giphy.gif" width="30" height="30" alt="giphy" style="vertical-align:middle; margin-right:8px;"/>I'm currently learning</h3>
+    <h3 style="margin:0 0 20px 0;"><img src="./assets/giphy.gif" width="30" height="30" alt="giphy" style="vertical-align:middle; margin-right:8px;"/>I'm currently learning</h3>
     <p style="margin:0;">
       <img src="./assets/langgraph.webp" width="40" height="40" alt="langgraph"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
